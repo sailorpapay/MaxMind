@@ -1,4 +1,4 @@
-# MaxMindDB Reader, Geoipv2, GeoIpUpdater
+# MaxMindDB Reader, Geoipv2, GeoIpUpdater for PHP 7.1
 
 Install::::
 
